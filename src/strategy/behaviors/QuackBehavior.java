@@ -1,4 +1,4 @@
-package duck.behaviors;
+package strategy.behaviors;
 
 public interface QuackBehavior {
     public void quack();

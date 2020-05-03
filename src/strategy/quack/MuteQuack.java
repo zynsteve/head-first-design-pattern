@@ -1,6 +1,6 @@
-package duck.quack;
+package strategy.quack;
 
-import duck.behaviors.QuackBehavior;
+import strategy.behaviors.QuackBehavior;
 
 public class MuteQuack implements QuackBehavior {
     public void quack() {

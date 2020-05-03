@@ -1,6 +1,6 @@
-package duck;
+package strategy;
 
-import duck.fly.FlyRocketPowered;
+import strategy.fly.FlyRocketPowered;
 
 public class MiniDuchSimulator {
     public static void main(String[] args) {
